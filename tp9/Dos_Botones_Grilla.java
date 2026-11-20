@@ -55,7 +55,7 @@ private void armaPanelImagen(){
   panelImagen.add(etiqueta);
   etiqueta.setIcon(new ImageIcon("perro.gif"));
   etiqueta.setText("Jack");
-  getContentPane().add(etiqueta);
+  
 
 }
 
